@@ -110,6 +110,12 @@ $ npm run production
 
 ```
 
+> **Nota:** Use `pm2` para obter detalhes da aplicação `todo-app`:
+> ```bash
+>  $ ./node_modules/.bin/pm2 show todo-app
+> ```
+
+
 ## Interagindo com o servidor
 
 Para adicionar, atualizar, deletar ou listar dados, podemos utilizar os endpoints da API a partir de uma aplicação como Insomnia ou Postman.
