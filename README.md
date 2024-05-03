@@ -4,6 +4,7 @@ Crud de agendamento de tarefas (to-do)
 
 - [Backend com Node.JS, Express e MongoDB](./backend/README.md)
 - [Frontend com React.JS](./frontend/README.md)
+- [Frontend com React.JS e Redux](./frontend_redux/README.md)
 
 ## Saiba mais
 
